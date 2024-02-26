@@ -17,7 +17,7 @@ I'm José Vinícius, currently working as a Data Analyst Intern at Itaú Unibanc
 1. **Predicting Sales Impact: Marketing Regression Analysis**: 
 In this project, I tackled the challenge of optimizing sales returns from online advertising investments. With detailed data on investments across various platforms and corresponding sales values, we embark on descriptive analysis and regression modeling. Our goal is to develop a predictive model that elucidates the relationship between advertising investments and sales returns.
 
-2. **E-commerce RFM Analysis: Unveiling Customer Insights**: In this project I employ Python to conduct an RFM analysis for an e-commerce venture, revealing vital metrics—Recency, Frequency, and Monetary. Using this newfound data it is possible to enhance customer segmentation strategies and boost revenue through data-driven decision-making.
+2. **E-commerce RFM Analysis: Unveiling Customer Insights**: In this project I employed Python to conduct an RFM analysis for an e-commerce venture, revealing vital metrics—Recency, Frequency, and Monetary. Using this newfound data it is possible to enhance customer segmentation strategies and boost revenue through data-driven decision-making.
 
 3. **Churn Prediction Model for Streaming Platforms**: As part of a coding challenge, I developed a classification model to predict user churn for a streaming platform. Leveraging Python, machine learning techniques, and customer data analysis, the model identifies users likely to cancel subscriptions, enabling proactive measures to mitigate churn rates and enhance user retention strategies.
 

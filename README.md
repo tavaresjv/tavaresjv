@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm José Vinícius, a Data Analyst Intern at Itaú Unibanco, with a background in Chemical Engineering.
+I'm José Vinícius, a Data Analyst at Itaú Unibanco, with a background in Chemical Engineering.
 
 👨‍💻 I'm passionate about leveraging data to drive insights and solve complex problems.
 

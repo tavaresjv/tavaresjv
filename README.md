@@ -9,10 +9,10 @@ My passion lies in **Machine Learning**, especially **Large Language Models (LLM
 ## 🛠️ **Skills**
 
 ### **Technical Skills**
-- **Programming**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL
-- **Machine Learning**: Classification, Regression, Clustering, LLMs
-- **Data Tools**: Alteryx, Hadoop, AWS (SageMaker, S3, Glue, Athena)
-- **BI & Visualization**: Power BI, Tableau
+- **Programming**: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, virtual environments, Flask), SQL
+- **Machine Learning**: Classification, Regression, Clustering, Time Series, LLMs (RAG, summarization, sentiment analysis, prompt engineering)
+- **Data Tools**: Alteryx, Hadoop, SAS, AWS (SageMaker, S3, Glue, Athena)
+- **BI & Visualization**: Power BI, Tableau, Quicksight and SAS
 - **Statistics**: Descriptive and Inferential Statistics
 
 ### **Soft Skills**

@@ -1,25 +1,39 @@
 # Hi there! 🙋‍♂️
 ![capa_linkedin](images/foto_de_capa_linkedin.jpeg)
-👨‍💻 Glad to meet you! I'm **José Vinícius Tavares**, a 24-year-old **Data Scientist** and **Business Analyst** from São Paulo, Brazil. I hold a degree in **Chemical Engineering** from the **University of São Paulo (USP)** and currently work as a **Business Analyst** at **Itaú Unibanco**, where I focus on modeling customer service strategies and leveraging data to drive business decisions.
+👨‍💻 Glad to meet you! I'm **José Vinícius Tavares**, a 24-year-old **Data Science Analyst** from São Paulo, Brazil. I hold a degree in **Chemical Engineering** from the **University of São Paulo (USP)** and currently work as a **Data Science Analyst** at **Itaú Unibanco**, where I focus on **generative AI model governance**, **real-time dashboards** **strategic data analysis**, and **translating business needs into data-driven solutions**.  
 
-My passion lies in **Machine Learning**, especially **Large Language Models (LLMs)**, and I'm constantly exploring new ways to apply data science to solve real-world problems. I recently earned a **Bronze Medal 🥉** at the **27th Itaú Data Battle**, a testament to my skills and dedication in the field.
+My passion lies in **Generative AI**, **Machine Learning**, and **Data Storytelling**, and I'm constantly exploring ways to bridge the gap between technical models and business impact. I recently earned a **Bronze Medal 🥉** at the **27th Itaú Data Battle**, a testament to my analytical and collaborative skills.  
+
+My passion lies in **Large Language Models (LLMs)**, **Machine Learning**, and **Data Storytelling**. I'm constantly exploring ways to bridge the gap between technical models and business impact, ensuring AI projects are measurable, aligned with stakeholders, and deliver value. My **Bronze Medal 🥉** at the **27th Itaú Data Battle** reflects my problem-solving skills and collaborative approach.  
 
 ---
 
 ## 🛠️ **Skills**
 
-### **Technical Skills**
-- **Programming**: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, virtual environments, Flask), SQL
-- **Machine Learning**: Classification, Regression, Clustering, Time Series, LLMs (RAG, summarization, sentiment analysis, prompt engineering)
-- **Data Tools**: Alteryx, Hadoop, SAS, AWS (SageMaker, S3, Glue, Athena)
-- **BI & Visualization**: Power BI, Tableau, Quicksight and SAS
-- **Statistics**: Descriptive and Inferential Statistics
+### **Hard Skills**
+#### Programming & Data Science
+- **Languages**: Python (pandas, numpy, scikit-learn, statsmodels, Flask), SQL
+- **ML/DL**: Classification, Regression, Clustering, Time Series, LLMs (RAG, summarization, sentiment analysis)
+- **Cloud & Big Data**: AWS (SageMaker, QuickSight, Glue), Hadoop
+- **Enterprise Tools**: SAS, SAP, Alteryx
+- **Visualization**: Power BI, QuickSight, Tableau, matplotlib/seaborn
+
+#### AI & Data Governance
+- Model lifecycle management (ideation → impact measurement)
+- Generative AI project alignment
+- Data pipeline automation
 
 ### **Soft Skills**
-- **Communication**: Effective presenter and storyteller, experienced in executive presentations.
-- **Teamwork**: Collaborative and adaptable, with a proven ability to work in cross-functional teams.
-- **Self-Directed Learning**: Continuously improving my skills through courses, projects, and challenges.
-- **Organization & Planning**: Strong ability to manage multiple projects and meet deadlines.
+#### Communication
+- Data storytelling & executive presentations
+- Technical-to-business translation
+- Cross-functional collaboration
+
+#### Work Methodology
+- Agile project execution
+- Self-directed learning
+- Deadline-driven organization
+- Adaptive teamwork
 
 ---
 
